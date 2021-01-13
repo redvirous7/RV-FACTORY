@@ -17,5 +17,8 @@ mv gen.sh modules
 mv payload modules
 mv listener.py modules
 python RV-FACTORY.py
+cd
+cd RV-FACTORY
+python RV-FACTORY.py
 
 """)
