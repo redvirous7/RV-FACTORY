@@ -151,13 +151,6 @@ def main():
     if i=='1':
         tpy()
 
-
-    else:
-
-        print ("COMING SOON..!")
-        os.system("sleep 3")
-        os.system("python RV-FACTORY.py")
-
 def tpy():
     print ("CHOSE ATOOL")
     print ("(1) REMOTE ACCESS")
